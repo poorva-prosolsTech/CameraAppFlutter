@@ -1,6 +1,9 @@
 # camera_app
 
-A new Flutter project.
+![Screenshot_20210531-004038](https://user-images.githubusercontent.com/76773953/120143170-3da45a80-c1fd-11eb-9174-23621dc446dd.jpg)
+![Screenshot_20210531-003951](https://user-images.githubusercontent.com/76773953/120143168-3bda9700-c1fd-11eb-8819-a93c7bbb0bfd.jpg)
+![Screenshot_20210531-004038](https://user-images.githubusercontent.com/76773953/120143160-38471000-c1fd-11eb-8dd9-d64b02e7819f.jpg)
+![Screenshot_20210531-003951](https://user-images.githubusercontent.com/76773953/120143180-4006b480-c1fd-11eb-88c4-c2d71aaa8421.jpg)
 
 ## Getting Started
 
